@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio2k
 
-## Getting Started
+WELLCOME !!
 
-First, run the development server:
+My ups and downs, my errors and trials—————————this is my portfolio.
+Here are some of my own projects where i've cried and cheered myself while creating something that I can truly call my own, my mark in this world.
+Still, I ask you, how many people can say they've done that? Not me or you, maybe a australopithecus ?!
+The wheel was already invented, everything that comes from it, even with its differences, is a copy of that.
+So how can I call this portfolio my creation?....
+Don't stress yourself, it's just philosophy. Enjoy it.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+########################## THIS PROJECT USES THE FOLLOWING: ###########################
+-React
+-NextJS
+-Tailwind
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Yours truly,
+André Tavares
