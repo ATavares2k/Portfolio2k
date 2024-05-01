@@ -1,6 +1,6 @@
 # Portfolio2k
 
-WELLCOME !!
+WELLCOME!
 
 My ups and downs, my errors and trials—————————this is my portfolio.
 Here are some of my own projects where i've cried and cheered myself while creating something that I can truly call my own, my mark in this world.
